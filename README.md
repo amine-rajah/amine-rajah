@@ -44,7 +44,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amine-rajah&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h3 align="left">:calling: Connect with me:</h3>
-<p align="left">
+<h3 align="center">:calling: Connect with me</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/mohamed-amine-rajah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/mohamed-amine-rajah/" height="30" width="40" /></a><a href="https://stackoverflow.com/users/12909168/mohamed-amine-rajah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/12909168/mohamed-amine-rajah" height="30" width="40" /></a><a href="https://www.instagram.com/mohamedamine_rajah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedamine_rajah" height="30" width="40" /></a><a href="https://discord.gg/RAJAH#9462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RAJAH#9462" height="30" width="40" /></a>
 </p>
