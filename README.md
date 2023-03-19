@@ -2,6 +2,7 @@
 <h3 align="center">A passionate DevOps Engineer and Full Stack Developer from Tunisia</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-rajah" alt="amine-rajah" /></a> </p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 
 - 🔭 I’m currently working on **RentLink project**
 
