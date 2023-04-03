@@ -37,7 +37,7 @@
   
 </div>
 
-<h3 align="left"> :fire: My Stats :fire:</h3>
+<h3 align="center"> :fire: My Stats :fire:</h3>
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amine-rajah&theme=dark&background=000000)](https://git.io/streak-stats)
