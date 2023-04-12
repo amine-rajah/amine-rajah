@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine RAJAH</h1>
-<h3 align="center">A passionate DevOps Engineer and Full Stack Developer from Tunisia</h3>
+<h3 align="center">A passionate DevOps Engineer and Full Stack Java Developer from Tunisia</h3>
 
 <div align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 
