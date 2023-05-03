@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RentLink project**
 
-- 💬 Ask me about **Spring Boot, Java, Docker,  Angular, Kubernetes, Azure, Istio service mesh ....**
+- 💬 Ask me about **Spring Boot, Java, Docker,  Angular, Kubernetes, Azure, Istio service mesh, AWS ....**
 
 - 📫 How to reach me **mohamedamine.rajah.officiel.com**
 
