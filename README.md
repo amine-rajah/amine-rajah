@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amine RAJAH</h1>
-<h3 align="center">A passionate DevOps Engineer and Full Stack Java Developer from Tunisia</h3>
+<h3 align="center">A passionate DevOps & Cloud Engineer from Tunisia</h3>
 
 <div align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 
-- 🔭 I’m currently working on **RentLink project**
+- 🔭 I’m currently working on **CloudOpsHub**
 
-- 💬 Ask me about **Spring Boot, Java, Docker,  Angular, Kubernetes, Azure, Istio service mesh, AWS ....**
+- 💬 Ask me about **Linux | Git | Jenkins | Docker | K8s | ArgoCD | Terraform | Ansible | Grafana | Azure | OVH Cloud | AWS ...**
 
 - 📫 How to reach me **mohamedamine.rajah.officiel.com**
 
